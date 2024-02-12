@@ -298,3 +298,45 @@
 // console.log(firstName); 
 // console.log(lastName); 
 // console.log(birthDate); 
+
+
+//  22- task  //////////////////////////////
+
+// let students = [
+//     { name: "Ali", grade: 95 },
+//     { name: "Vali", grade: 85 },
+//     { name: "Soli", grade: 75 },
+//     { name: "Asal", grade: 65 },
+//   ];  
+//   let totalGrade = students.reduce((total, student) => total + student.grade, 0) / students.length;  
+//   let newStudents = students.map(student => {
+//       let newGrade;
+//       if (student.grade >= 90) {
+//           newGrade = 5;
+//       } else if (student.grade >= 80) {
+//           newGrade = 4;
+//       } else if (student.grade >= 70) {
+//           newGrade = 3;
+//       } else {
+//           newGrade =2;
+//       }
+//       return { ...student, grade: newGrade };
+//   });
+  
+//   console.log(totalGrade); 
+//   console.log(newStudents);
+
+
+//  25- task  //////////////////////////////
+
+// function countPassed(pupils) {
+//     let passedCount = 0;
+//     for (let pupil of pupils) {
+//       if (pupil.percent >= 70) {
+//         passedCount++;
+//       }
+//     }
+//     return passedCount;
+//   }
+  
+//   console.log(countPassed(pupils));
