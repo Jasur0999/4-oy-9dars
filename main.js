@@ -27,6 +27,7 @@
 // }
 // console.log(createSquaredObject(5));
 
+
 //  3- task  //////////////////////////
 
 // let misolObject = {
@@ -44,12 +45,14 @@
 //   let yigindi = kalitlar.concat(qiymatlar);
 //   console.log(yigindi);
 
+
 //  5- task  //////////////////////////////
 
 // let mahsulotlar = {"Apelsin": 10000, "Olma": 12000, "Mandarin": 8000, "Banan": 20000};
 // let narxlar = Object.values(mahsulotlar);
 // let jamiNarx = narxlar.reduce((a, b) => a + b, 0);
 // console.log(jamiNarx);
+
 
 //  6- task  //////////////////////////////
 
@@ -64,6 +67,7 @@
 
 //   const input = {abc: '1', 123: '2', d: '5'};
 //   console.log(defineObject(input));
+
 
 //  7- task  //////////////////////////////
 
@@ -215,7 +219,9 @@
 
 //   console.log(totalSum);
 
+
 //  16- task  //////////////////////////////
+
 
 //  17- task  //////////////////////////////
 
@@ -228,6 +234,7 @@
 
 //   const arr = Object.entries(obj).flat();
 //   console.log(arr);
+
 
 //  18- task  //////////////////////////////
 
@@ -252,6 +259,7 @@
 
 //   const result = calculateGPA(grades);
 //   console.log("Your GPA is:", result);
+
 
 //  19- task  //////////////////////////////
 
